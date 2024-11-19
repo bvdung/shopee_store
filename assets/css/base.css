@@ -1,0 +1,8 @@
+:root {
+    --header-height: 120px;
+    --navbar-height: 34px;
+    --primary-color: rgb(254, 84, 48);
+    --gold-start-cold: #FFCE3E;
+    --text-color: #333;
+    --sort-bar-heigh-on-tablet-mobile: 46px;
+}
